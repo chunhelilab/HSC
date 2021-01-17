@@ -27,7 +27,7 @@ SSexp=[9.793176056415679e-04,1.999012068550250;1.999012068550250,9.7931760564156
 % SSexp=[0.00121600801054795,2.09835566126525;2.099530874910735,0.001149431884705;0.915277357015253,0.912461734357177];
 %% gradient descent
 num=1;
-step=100;          %step of gradient descent
+step=500;          %step of gradient descent
 plotmatrix=zeros(step,3); 
 asave=zeros(step,2); 
 ssave=zeros(step,2,2);
