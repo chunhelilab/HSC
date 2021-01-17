@@ -1,4 +1,4 @@
 # HSC
-main.m in 2dtest provides the parameter inference in a simulated two-gene system by gradient descent.  
-landscape.m in landscape provides the construction of the landscape in our model.  
-The above program was tested on MATLABR2018a
+main.m in 2dtest provides the parameter inference program in a simulated two-gene system by gradient descent algorithm.  
+landscape.m in landscape provides the program of construction of the landscape for HSC model.  
+The above program was implemented on MATLABR2018a
